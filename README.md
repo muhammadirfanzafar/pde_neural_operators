@@ -5,7 +5,7 @@ Partial differential equations (PDEs) play a dominant role in the mathematical m
 <div align=center><img width="966" src="https://github.com/muhammadirfanzafar/pde_neural_operators/blob/main/figures/schematic_gkn_vcnn.png"/></div>
 
 This repository contains the code for the following paper:
-* MI Zafar, J Han, XH Zhou, and H Xiao. Frame invariance and scalability of neural operators for partial differential equations. *Communications in Computational Physics*, Accepted for publication. Also available at arXiv: [https://arxiv.org/abs/2112.14769](https://arxiv.org/abs/2112.14769)
+* MI Zafar, J Han, XH Zhou, and H Xiao. Frame invariance and scalability of neural operators for partial differential equations. *Communications in Computational Physics*, Vol. 32, No. 2, 2022, pp. 336–363. Also available at arXiv: [https://arxiv.org/abs/2112.14769](https://arxiv.org/abs/2112.14769)
 
 ### Requirements
 * PyTorch
