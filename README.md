@@ -19,7 +19,7 @@ The code is in the form of simple python scripts. Each script shall be directly 
 ### Datasets
 We provide the dataset for a flow over a symmetric NACA-0012 airfoil in a two-dimensional space. The data generation can be found in the paper. Data is stored as tensors in .pt file extension using PyTorch. Once downloaded from the link below and saved in 'data' folder, the scripts should be runnable.
 
-[Airfoil dataset](https://drive.google.com/drive/folders/1nZRlF8eFbD76DAvH5Q-03iVUROIKwl7e?usp=sharing)
+[Airfoil dataset](https://drive.google.com/drive/folders/1szKqJG6s0HD21IXniwaTlAkK7ijcoz5a?usp=sharing)
 
 Contributors:
 -------------
